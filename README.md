@@ -17,7 +17,7 @@ If you use this data set in your research we would appreciate a citation to the 
 
 To define our focus group, we first need to define the set of subreddits we wish to consider.
 Since we are interested in political discussion, we choose `r/politics` as our seed.
-We then pick the 50 most similar subreddits to `r/politics` according to [this method](https://www.shorttails.io/interactive-map-of-reddit-and-subreddit-similarity-cal culator).
+We then pick the 50 most similar subreddits to `r/politics` according to [this method](https://www.shorttails.io/interactive-map-of-reddit-and-subreddit-similarity-calculator).
 
 The set of considered users are those that have written at least 10 comments in 2012 and 10 comments in 2016 in any of these subreddits.
 This set contains 44924 users.
